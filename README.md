@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-![](https://raw.githubusercontent.com/f3rh47/vue-js-foursquare-swarm-last-location/src/img/screen.png)
+![](https://github.com/F3RH47/vue-js-foursquare-swarm-last-location/blob/master/src/img/screen.png)
 
 ## Build Setup
 
